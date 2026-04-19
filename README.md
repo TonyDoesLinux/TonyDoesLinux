@@ -24,7 +24,6 @@ TonyDoesLinux — Networking & Security | SMS NOC Engineer | Linux Enthusiast
 ![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![SMPP](https://img.shields.io/badge/SMPP-SMS_Protocol-blue?style=flat-square)
 ![SS7](https://img.shields.io/badge/SS7-Telecom-informational?style=flat-square)
-![MPLS](https://img.shields.io/badge/MPLS-Routing-blueviolet?style=flat-square)
 ![SDN](https://img.shields.io/badge/SDN%2FNFV-Network_Virtualization-orange?style=flat-square)
 
 **Systems & OS**
