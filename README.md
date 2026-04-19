@@ -2,7 +2,7 @@
 
 ```bash
 $ whoami
-TonyDoesLinux — Networking & Security Student | SMS NOC Engineer | Linux Enthusiast
+TonyDoesLinux — Networking & Security | SMS NOC Engineer | Linux Enthusiast
 ```
 
 ---
@@ -26,7 +26,6 @@ TonyDoesLinux — Networking & Security Student | SMS NOC Engineer | Linux Enthu
 ![SS7](https://img.shields.io/badge/SS7-Telecom-informational?style=flat-square)
 ![MPLS](https://img.shields.io/badge/MPLS-Routing-blueviolet?style=flat-square)
 ![SDN](https://img.shields.io/badge/SDN%2FNFV-Network_Virtualization-orange?style=flat-square)
-![LCR](https://img.shields.io/badge/LCR-Least_Cost_Routing-green?style=flat-square)
 
 **Systems & OS**
 
