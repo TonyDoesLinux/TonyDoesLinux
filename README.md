@@ -67,7 +67,7 @@ TonyDoesLinux — Networking & Security | SMS NOC Engineer | Linux Enthusiast
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tony_Abou_Antoun-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tony-abou-antoun-8b345627b)
-[![Email](https://img.shields.io/badge/Email-tonyabouantoun991@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tonyabouantoun991@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tonyabouantoun991@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tfa009lb@gmail.com)
 
 ---
 
