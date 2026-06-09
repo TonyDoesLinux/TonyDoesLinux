@@ -28,7 +28,7 @@ TonyDoesLinux — Networking & Security | SMS NOC Engineer | Linux Enthusiast
 
 **Systems & OS**
 
-![Linux](https://img.shields.io/badge/Linux-Fedora-294172?style=flat-square&logo=fedora&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Pop!__OS-48B9C7?style=flat-square&logo=popos&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
