@@ -10,7 +10,7 @@ TonyDoesLinux — Networking & Security | SMS NOC Engineer | Linux Enthusiast
 ## 🧠 About Me
 
 - 🎓 BSc Networking & Security @ Arab Open University / Open University UK
-- 💼 SMS NOC Engineer @ TXT Bridge — SMPP, routing, real-time platform monitoring
+- 🌐 Prev: SMS NOC Engineer @ TXT Bridge — SMPP, routing, real-time platform monitoring
 - 🌐 Prev: OGERO Telecom Internship — PSTN, LTE, IMS, fiber optic (FTTH/FTTC)
 - 🐧 Linux daily driver -> PopOS Cosmic DE
 - 🔍 Passionate about troubleshooting systems, networks, and telecom infrastructure
